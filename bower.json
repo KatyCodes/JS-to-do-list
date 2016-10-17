@@ -6,7 +6,7 @@
     "Evan <stewarea@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/stewarea/angular2-skeleton",
   "ignore": [
     "**/.*",
     "node_modules",
